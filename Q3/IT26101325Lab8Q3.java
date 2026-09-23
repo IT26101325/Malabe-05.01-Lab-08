@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IT26101424Lab8Q4 {
+public class IT26101325Lab8Q4 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[] studentsArray = new int[8];
